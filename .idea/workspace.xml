@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78d95027-6508-4062-86f9-491660aaf13e" name="Changes" comment="Созданы пути в приложении blog">
+      <change afterPath="$PROJECT_DIR$/mysite/blog/static/blog/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BookDjango.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BookDjango.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,16 +30,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Satrey"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Satrey&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Satrey/DjangoBook.git",
-    "accountId": "a379b1d0-8538-4a04-a5a3-4f34d89312f1"
+    "accountId": "72cef764-2d93-4c6a-a38a-b6624d4e94b8"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -50,9 +55,18 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "last_opened_file_path": "C:/Users/user/PycharmProjects/DjangoBook/mysite/blog/static",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\DjangoBook\mysite\blog\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\DjangoBook\mysite\blog\static\blog" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
