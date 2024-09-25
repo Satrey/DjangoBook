@@ -16,5 +16,7 @@
                 {{ post.body | truncatewords:30 | linebreaks }}
         </div>
     {% endfor %}
-    {% include 'blog/post/paginator.html' with page=posts %}
+    <div class="paginator">
+        {% include 'blog/post/paginator.html' with page=posts %}
+    </div>
 {% endblock %}
