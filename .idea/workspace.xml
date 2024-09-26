@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78d95027-6508-4062-86f9-491660aaf13e" name="Changes" comment="Модифицирован вид шаблонов(добавлены стили css, подредактирована верстка). Продолжаем стр56.">
-      <change beforePath="$PROJECT_DIR$/.idea/BookDjango.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BookDjango.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="78d95027-6508-4062-86f9-491660aaf13e" name="Changes" comment="Добавлены исключения при обработке страницы. Продолжаем стр70. (102).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/static/blog/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/static/blog/blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/blog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,13 +105,22 @@
       <option name="project" value="LOCAL" />
       <updated>1727152469345</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавлены исключения при обработке страницы. Продолжаем стр70. (102).">
+      <option name="closed" value="true" />
+      <created>1727235517869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727235517869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Созданы пути в приложении blog" />
     <MESSAGE value="Доделаны шаблоны. Закончена 1 глава." />
     <MESSAGE value="Модифицирован вид шаблонов(добавлены стили css, подредактирована верстка). Продолжаем стр56." />
-    <option name="LAST_COMMIT_MESSAGE" value="Модифицирован вид шаблонов(добавлены стили css, подредактирована верстка). Продолжаем стр56." />
+    <MESSAGE value="Добавлены исключения при обработке страницы. Продолжаем стр70. (102)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены исключения при обработке страницы. Продолжаем стр70. (102)." />
   </component>
 </project>
