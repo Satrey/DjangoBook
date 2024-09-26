@@ -68,6 +68,7 @@ def post_share(request, post_id):
             id = post_id,
             status = Post.Status.PUBLISHED
         )
+        sent=False
 
         if request.method == 'POST':
             form = EmailPostForm(request.POST)
@@ -81,7 +82,7 @@ def post_share(request, post_id):
                     f"Recommends you read {post.title}"
                 )
                 message = (
-                    f"Read {post.title} at {post.url} \n\n"
+                    f"Read {post.title} at {post_url} \n\n"
                     f"{cd['name']} \'s comments: {cd['comments']}"
                 )
                 send_mail(
